@@ -4,7 +4,7 @@ Twilio CodeIgniter Library
 by Ben Edmunds
 ======================================
 
-A basic Twilio CodeIgniter library wrapper using the PHP class provided by Twilio.
+A basic Twilio REST API CodeIgniter library wrapper using the PHP class provided by Twilio.
 
 
 
@@ -13,7 +13,7 @@ Just drop the files in their appropriate folders (ie "libraries/twilio.php" goes
 
 
 NOTES:
-All calls to the request class are routed through the library class, so for example:
+All calls to the rest class are routed through the library class, so for example:
 
 instead of:
 $client = new TwilioRestClient($AccountSid, $AuthToken);
