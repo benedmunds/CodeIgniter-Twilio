@@ -7,6 +7,9 @@ by Ben Edmunds
 A basic Twilio REST API CodeIgniter library wrapper using the PHP class provided by Twilio.
 
 
+WARNING:
+Sorry I don't use or support this library anymore.  Use at your own risk.  You can check the official PHP SDK here: https://github.com/twilio/twilio-php
+
 
 SETUP:
 Just drop the files in their appropriate folders (ie "libraries/twilio.php" goes in your "libraries" folder) and add your settings in the "config/twilio.php" file.
